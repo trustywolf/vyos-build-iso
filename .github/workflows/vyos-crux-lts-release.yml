@@ -11,7 +11,7 @@ env:
   ARCHITECTURE: amd64
   BUILD_BY: vyos-build@wolflab.net
   BUILD_TYPE: release
-  VERSION: 1.2.7-epa1-4.19.178
+  VERSION: 1.2.7-epa1-4.19.190
   DEBIAN_MIRROR: http://mirrors.edge.kernel.org/debian/
 
 jobs:
